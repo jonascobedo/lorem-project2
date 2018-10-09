@@ -1,0 +1,42 @@
+
+body {
+background-color: #939196;}
+
+.backgroundimage
+  {
+background-image: url("nationallorem.png");
+background-size: 680px 440px;
+background-repeat: no-repeat;
+background-position: right center;
+
+}
+
+h1 {
+font-family: Helvetica;
+font-size: 48px;
+color: #454955;
+text-align: center;
+
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: #454955;
+  text-align: center;
+  letter-spacing: .2px;
+  }
+
+  .button
+  {
+        background-color:#ffffff;
+        padding:10px 20px;
+        text-decoration:none;
+        color:#636262;
+
+      .button:hover 
+
+        background-color:#636262;
+        color:#fff;
+
+}
